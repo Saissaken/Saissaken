@@ -16,4 +16,16 @@ Here are some ideas to get you started:
 -->
 I'm an engineer with a passion for UX. I like to design and build stuff. By day, I manage a team of engineers at [Globant](https://www.globant.com/), but I never shy away from some fun, hands-on projects on the side 🙃
 
-📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/jsaissac)
+👨‍💻 I’m lately enjoying tools like:
+
+- NextJS, NuxtJS and SvelteKit
+- Tailwind, HeadlessUI, RadixUI
+- TypeScript
+- NestJS, Directus & GraphQL
+- Turborepo
+- Deno & Bun
+- AWS, GCP, Vercel and Edge Computing
+- web3, walletconnect, hardhat and truffle
+- GPT-3 and DALL-E APIs
+
+📫 Feel free to reach me out: [LinkedIn](https://www.linkedin.com/in/jsaissac)
