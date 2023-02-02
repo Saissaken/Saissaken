@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm an engineer with a passion for UX. I like to design and build stuff. By day, I manage a team of engineers at Globant, but I never shy away from some fun, hands-on projects on the side 🙃
+I'm an engineer with a passion for UX. I like to design and build stuff. By day, I manage a team of engineers at [Globant](https://www.globant.com/), but I never shy away from some fun, hands-on projects on the side 🙃
 
 📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/jsaissac)
