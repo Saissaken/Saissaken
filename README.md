@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there, Juan here 
 
 <!--
 **Saissaken/Saissaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm an engineer with a passion for UX. I like to design and build stuff. By day, I manage a team of engineers at Globant, but I never shy away from some fun, hands-on projects on the side 🙃
+
+📫 Reach me out: [LinkedIn](https://www.linkedin.com/in/jsaissac)
